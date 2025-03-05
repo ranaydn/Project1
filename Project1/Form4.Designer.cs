@@ -47,7 +47,7 @@
             this.lblName.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.lblName.Location = new System.Drawing.Point(50, 50);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(70, 23);
+            this.lblName.Size = new System.Drawing.Size(100, 20);
             this.lblName.TabIndex = 0;
             this.lblName.Text = "Name : ";
             // 
@@ -56,7 +56,7 @@
             this.txtName.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.txtName.Location = new System.Drawing.Point(150, 50);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(199, 30);
+            this.txtName.Size = new System.Drawing.Size(200, 25);
             this.txtName.TabIndex = 1;
             // 
             // lblPosition
@@ -65,7 +65,7 @@
             this.lblPosition.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.lblPosition.Location = new System.Drawing.Point(50, 90);
             this.lblPosition.Name = "lblPosition";
-            this.lblPosition.Size = new System.Drawing.Size(84, 23);
+            this.lblPosition.Size = new System.Drawing.Size(100, 20);
             this.lblPosition.TabIndex = 2;
             this.lblPosition.Text = "Position : ";
             // 
@@ -74,7 +74,7 @@
             this.txtPosition.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtPosition.Location = new System.Drawing.Point(150, 90);
             this.txtPosition.Name = "txtPosition";
-            this.txtPosition.Size = new System.Drawing.Size(199, 30);
+            this.txtPosition.Size = new System.Drawing.Size(200, 25);
             this.txtPosition.TabIndex = 3;
             // 
             // lblSalary
@@ -83,7 +83,7 @@
             this.lblSalary.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.lblSalary.Location = new System.Drawing.Point(50, 130);
             this.lblSalary.Name = "lblSalary";
-            this.lblSalary.Size = new System.Drawing.Size(64, 23);
+            this.lblSalary.Size = new System.Drawing.Size(100, 20);
             this.lblSalary.TabIndex = 4;
             this.lblSalary.Text = "Salary :";
             // 
@@ -92,7 +92,7 @@
             this.txtSalary.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.txtSalary.Location = new System.Drawing.Point(150, 130);
             this.txtSalary.Name = "txtSalary";
-            this.txtSalary.Size = new System.Drawing.Size(199, 30);
+            this.txtSalary.Size = new System.Drawing.Size(200, 25);
             this.txtSalary.TabIndex = 5;
             // 
             // btnAdd
@@ -119,7 +119,7 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Font = new System.Drawing.Font("Segoe UI Black", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnDelete.Font = new System.Drawing.Font("Segoe UI Black", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnDelete.ForeColor = System.Drawing.Color.LightCoral;
             this.btnDelete.Location = new System.Drawing.Point(310, 180);
             this.btnDelete.Name = "btnDelete";
