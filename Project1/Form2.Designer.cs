@@ -42,11 +42,11 @@
             // lblTitle
             // 
             this.lblTitle.AutoSize = true;
-            this.lblTitle.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblTitle.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.lblTitle.ForeColor = System.Drawing.Color.Navy;
             this.lblTitle.Location = new System.Drawing.Point(110, 20);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(75, 31);
+            this.lblTitle.Size = new System.Drawing.Size(180, 30);
             this.lblTitle.TabIndex = 0;
             this.lblTitle.Text = "Login";
             // 
@@ -56,7 +56,7 @@
             this.lblUsername.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.lblUsername.Location = new System.Drawing.Point(50, 80);
             this.lblUsername.Name = "lblUsername";
-            this.lblUsername.Size = new System.Drawing.Size(96, 23);
+            this.lblUsername.Size = new System.Drawing.Size(100, 20);
             this.lblUsername.TabIndex = 1;
             this.lblUsername.Text = "Username :";
             // 
@@ -66,16 +66,16 @@
             this.lblPassword.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.lblPassword.Location = new System.Drawing.Point(50, 120);
             this.lblPassword.Name = "lblPassword";
-            this.lblPassword.Size = new System.Drawing.Size(89, 23);
+            this.lblPassword.Size = new System.Drawing.Size(100, 20);
             this.lblPassword.TabIndex = 2;
             this.lblPassword.Text = "Password :";
             // 
             // txtUsername
             // 
-            this.txtUsername.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtUsername.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtUsername.Location = new System.Drawing.Point(150, 80);
             this.txtUsername.Name = "txtUsername";
-            this.txtUsername.Size = new System.Drawing.Size(200, 30);
+            this.txtUsername.Size = new System.Drawing.Size(200, 25);
             this.txtUsername.TabIndex = 3;
             // 
             // txtPassword
@@ -83,7 +83,7 @@
             this.txtPassword.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.txtPassword.Location = new System.Drawing.Point(150, 120);
             this.txtPassword.Name = "txtPassword";
-            this.txtPassword.Size = new System.Drawing.Size(200, 30);
+            this.txtPassword.Size = new System.Drawing.Size(200, 25);
             this.txtPassword.TabIndex = 4;
             // 
             // button1
@@ -115,16 +115,16 @@
             this.lblConfirm.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.lblConfirm.Location = new System.Drawing.Point(50, 158);
             this.lblConfirm.Name = "lblConfirm";
-            this.lblConfirm.Size = new System.Drawing.Size(85, 23);
+            this.lblConfirm.Size = new System.Drawing.Size(100, 20);
             this.lblConfirm.TabIndex = 7;
             this.lblConfirm.Text = "Confirm : ";
             // 
             // txtConfirm
             // 
-            this.txtConfirm.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtConfirm.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.txtConfirm.Location = new System.Drawing.Point(150, 158);
             this.txtConfirm.Name = "txtConfirm";
-            this.txtConfirm.Size = new System.Drawing.Size(200, 30);
+            this.txtConfirm.Size = new System.Drawing.Size(200, 25);
             this.txtConfirm.TabIndex = 8;
             // 
             // frmRegister
