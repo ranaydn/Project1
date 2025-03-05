@@ -41,7 +41,7 @@
             this.lblWelcome.ForeColor = System.Drawing.Color.DarkGreen;
             this.lblWelcome.Location = new System.Drawing.Point(50, 20);
             this.lblWelcome.Name = "lblWelcome";
-            this.lblWelcome.Size = new System.Drawing.Size(164, 28);
+            this.lblWelcome.Size = new System.Drawing.Size(1200, 30);
             this.lblWelcome.TabIndex = 0;
             this.lblWelcome.Text = "Welcome, [user]";
             // 
@@ -58,7 +58,7 @@
             // 
             // btnLogout
             // 
-            this.btnLogout.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnLogout.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnLogout.ForeColor = System.Drawing.Color.LightCoral;
             this.btnLogout.Location = new System.Drawing.Point(250, 250);
             this.btnLogout.Name = "btnLogout";
